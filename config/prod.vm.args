@@ -1,0 +1,4 @@
+## Name of the node
+-name eec-prod@eec-prod-ip
+## Cookie for distributed erlang
+-setcookie eec-cookie

@@ -1,0 +1,4 @@
+## Name of the node
+-name eec-stage@eec-stage-ip
+## Cookie for distributed erlang
+-setcookie eec-cookie
